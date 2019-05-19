@@ -1,0 +1,29 @@
+div.cards {
+	padding: 3%;
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+.landing-card {
+	height: 200px;
+}
+.card {
+	margin: 0 auto;
+	float: none;
+	margin-bottom: 10px;
+}
+.card-total {
+	display: flex;
+	justify-content: center;
+}
+div.container div.row {
+	padding: 3%;
+}
+h5.card-title {
+	text-align: center;
+}
+
+h6.card-subtitle {
+	text-align: center;
+}

@@ -1,0 +1,13 @@
+h5.card-title {
+	text-align: center;
+}
+
+h6.card-subtitle {
+	text-align: center;
+}
+.card-text {
+	text-align: center;
+}
+a.card-link {
+	color: inherit;
+}
